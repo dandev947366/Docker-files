@@ -2,3 +2,6 @@
 
 ## django-celery
 > Containers: django, celery, redis
+
+## mysql-php
+> Containers: db, phpmyadmin, php
